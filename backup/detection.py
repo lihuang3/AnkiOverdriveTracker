@@ -30,21 +30,6 @@ class detection_module():
 
         # Specify pixel coord for startline, finishline, \
         # and the gap (a pixel separates startline and finishline)
-
-        # RaceV03 - track3
-        # self.start = [470, 97]
-        # self.finish = [472, 97]
-        # self.sfgap = [471,97]
-
-        # RaceV04- track4
-        # self.start = [480, 110]
-        # self.finish = [482, 110]
-        # self.sfgap = [481,110]
-
-#        # RaceV05 - track5
-#        self.start = [310, 69]
-#        self.finish = [312, 69]
-#        self.sfgap = [311,69]
         
         # RaceV05 - track6
         self.start = [490, 103]
